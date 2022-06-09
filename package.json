@@ -20,7 +20,7 @@
             {
 				"label": "Mt. Doom",
 				"uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
+                "path": "./themes/Mt-Doom.json"
             }
         ]
     }
