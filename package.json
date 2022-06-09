@@ -1,6 +1,6 @@
 {
     "name": "greyandorange",
-    "version": "2.1.7",
+    "version": "2.1.8",
     "publisher": "nathanhedemark",
     "displayName": "Mt. Doom",
     "description": "A simple orange and grey based color theme.",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/NathanH2111/mt-doom-theme"
+        "url": "https://github.com/NathanH2111/Mt.-Doom-Theme"
     },
     "categories": [
         "Themes"
@@ -20,7 +20,7 @@
             {
 				"label": "Mt. Doom",
 				"uiTheme": "vs-dark",
-                "path": "./themes/Mt-Doom.json"
+                "path": "./themes/mt-doom-theme.json"
             }
         ]
     }
